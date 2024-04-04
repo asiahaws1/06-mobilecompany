@@ -44,7 +44,7 @@ nav button {
 nav ul {
   list-style: none;
   padding: 0;
-  background-color: #50a3a3;
+  background-color: #427a7a;
   position: absolute;
   right: 0;
   width: 100%;
@@ -65,10 +65,10 @@ nav ul li a {
   text-align: right;
 }
 nav ul li.active a {
-  background-color: #438888;
+  background-color: #346060;
 }
 nav ul li a:hover {
-  background-color: #499595;
+  background-color: #3b6d6d;
 }
 
 main h1 {
@@ -163,7 +163,7 @@ main img {
 }
 
 #footerWrapper {
-  background: #50a3a3;
+  background: #427a7a;
   color: white;
 }
 
